@@ -1,5 +1,3 @@
-![Synthesis](https://github.com/user-attachments/assets/43148ed3-fb76-46f1-b54a-109d5764b6c0)# DESIGN_PROJECT-PD
-
 ### AIM:
 To implement and design synthesis and simulation for uart using cadence - genus and innovus.
 
