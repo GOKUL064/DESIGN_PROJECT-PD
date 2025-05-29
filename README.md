@@ -1,4 +1,4 @@
-# DESIGN_PROJECT-PD
+![Synthesis](https://github.com/user-attachments/assets/43148ed3-fb76-46f1-b54a-109d5764b6c0)# DESIGN_PROJECT-PD
 
 ### AIM:
 To implement and design synthesis and simulation for uart using cadence - genus and innovus.
@@ -286,30 +286,31 @@ Step 3 : Performing Synthesis
 
 RTL Simulation:
 
-![image](https://github.com/user-attachments/assets/5026f757-ad54-4df6-8885-289dd68a0bcf)
-
+![Screenshot 2025-05-27 113101](https://github.com/user-attachments/assets/8ee91c1d-09e6-4469-b113-7bd4ef9a27fc)
 
 Synthesis RTL Schematic:
 
-![Screenshot (242)](https://github.com/user-attachments/assets/64a31f92-641f-430a-b341-d003d1b131d9)
+![Synthesis](https://github.com/user-attachments/assets/ac0d0102-7706-417b-ad1b-36ffbfe4a51f)
+
 
 #### Area Report:
 
-![Screenshot (243)](https://github.com/user-attachments/assets/0b27143f-617b-4f49-982c-872b9187419a)
+![area](https://github.com/user-attachments/assets/f766871c-ea03-4f97-a081-4022d410c261)
 
 #### Power Report:
 
-![Screenshot (244)](https://github.com/user-attachments/assets/d0dcff3d-e158-4258-b907-4787ee862583)
+![power](https://github.com/user-attachments/assets/6a35efb5-be44-49fa-b210-5e44be4b8bee)
 
 #### Timing Report:
 
-![Screenshot (246)](https://github.com/user-attachments/assets/4a9422c6-c654-4068-bab8-09d4d67b84c9)
+![timing](https://github.com/user-attachments/assets/d94cc1e5-2847-4662-811d-2f42ed4431be)
 
 ### FLOORPLANNING:
 
-![Screenshot (264)](https://github.com/user-attachments/assets/65df4f14-ad1b-4805-8182-89f3123ec9bc)
+![floorplanning](https://github.com/user-attachments/assets/ad639c8b-709f-43c9-9be5-1a8fae9ad368)
 
-![Screenshot (269)](https://github.com/user-attachments/assets/c1d2a669-f4f4-4926-a4bf-b0c020366175)
+![floorplanning 2](https://github.com/user-attachments/assets/7ace4be8-fc8d-46e6-a22a-a5002a46c63f)
+
 
 
 ### RESULT:
